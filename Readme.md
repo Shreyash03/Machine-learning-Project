@@ -1,0 +1,4 @@
+Disease Prediction
+Description:
+Accurate and on-time analysis of any health-related problem is important for the prevention and treatment of the disease.
+Developing a medical diagnosis system based on machine learning (ML) algorithms for prediction of any disease can help in a more accurate diagnosis than the conventional method. We have designed a disease prediction system using multiple ML algorithms. The dataset used had more than 130 symptoms and 40 diseases for processing. Based on the symptoms of an individual, the diagnosis system gives the output as the disease that the individual might be suffering from.
